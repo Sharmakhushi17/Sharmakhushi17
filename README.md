@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharmakhushi17
 - 👀 I’m interested in exploring myself
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently practicing DSA and have done around 150+ questions on different coding platforms
 
 <!---
 Sharmakhushi17/Sharmakhushi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
