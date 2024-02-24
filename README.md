@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharmakhushi17
+- 👋 Hi, I’m Bhavana
 - 👀 I’m interested in exploring myself
 - 🌱 I’m currently practicing DSA and have done around 200+ questions on different coding platforms
 
